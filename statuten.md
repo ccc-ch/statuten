@@ -1,6 +1,6 @@
 # Statuten
 
-Statuten des CCC CH per 27.10.2012
+Statuten des CCC CH per 2016-06-11.
 
 ## 1 Name und Sitz des Verbands
 
@@ -111,4 +111,3 @@ Institution mit vergleichbaren Zielen.
 ## Übergangsbestimmungen
 
 Das Geschäftsjahr 2016 wird bis Mai 2017 verlängert.
-
