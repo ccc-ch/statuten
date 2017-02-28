@@ -45,12 +45,12 @@ Die Kündigung der Mitgliedschaft kann jederzeit unter Einhaltung einer Frist
 von 23 Tagen erfolgen. Bereits geschuldete Beiträge werden nicht erstattet. Ein
 Zahlungsrückstand von fünf Monaten wird als Austrittserklärung gewertet.
 L'annulation de l'affiliation est possible dans d'un délai de 23 jours. Les dettes ne seront pas remboursées.
-Un depassement du délai de paiement de plus de cinq mois compte comme une exclusion de ce membre.
+Un depassement du délai de paiement de plus de cinq mois --compte comme une exclusion de ce membre.
 
 Verstösst ein Mitglied in grober Weise gegen die Ziele des Verbands, kann die
 Chaosversammlung den Ausschluss beschliessen. Bereits geschuldete Beiträge
 werden nicht erstattet.
-Si un des membres s'engage directement contre les buts de l'association, l'assemblée chaos peut décider sur l'exclusion de ce membre.
+Si un des membres s'engage directement contre les buts de l'association, l'assemblée chaos peut décider sur <son exclusion> l'exclusion de ce membre.
 Les dettes ne seront pas remboursées.
 
 
@@ -59,7 +59,7 @@ Les dettes ne seront pas remboursées.
 
 Der Verband finanziert sich durch Mitgliederbeiträge sowie allfällige Spenden
 und Legate.
-L'association se finance avec les contributions des membres aussi bien que des donations et des legs.
+L'association se finance avec les contributions des membres aussi bien que --des donations et des legs.
 
 Es haftet ausschliesslich das Vereinsvermögen.
 Seulement les biens de l'association garantissent <sont --responsable> pour les dettes.
@@ -70,7 +70,7 @@ La fortune de l'association qui répond des dettes.
 
 Der Mitgliederbeitrag berechnet sich nach der Anzahl vertretener Hacker. Er ist
 jährlich im Voraus fällig.
-La cotisation --contribution-- se calcule avec le nombre des "intrus" présent. Elle est dûe annuellement en avance.
+La cotisation --contribution-- se calcule avec le nombre des "Hacker" présent. Elle est dûe annuellement en avance.
 
 ## 6 Organe
 ## 6 Organs adminstratifs
