@@ -27,10 +27,11 @@ L'admission des membres est décidé par l'assemblée du chaos.
 
 Le membres peuvent cesser l’adhésion toujours avec un préavis de 23 jours.
 Des arrérages des cotisations du cinq mois sont considérés comme une déclaration de démission.
-??
+Les cotisations déjà versées ne seront pas remboursées. 
+Le comité directeur peut radier les arrérages des cotisations.
 
 La réunion sociale se prononce sur l'exclusion des membres qui violent outrageusement les objectives de l'association.
-??
+Les cotisations déjà versées ne seront pas remboursées. Le comité directeur doit radier les arrérages des cotisations.
 
 ## 4 finances
 

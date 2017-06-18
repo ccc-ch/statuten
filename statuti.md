@@ -28,10 +28,12 @@ L'assemblea del caos decide sull'ammissione di nuovi soci.
 
 I soci possono cessare l'appartenenza in ogni moment con preavviso di 23 giorni.
 È presunta la dimissione con l’ammontare di cinque mesi di contributi sociali arretrati.
-??
+Contributi sociali già versati non saranno rimborsati. 
+Il comitato sociale può radiare i contributi sociali arretrati.
 
 L'assemblea sociale delibera sull'esclusione di soci che violano in modo oltraggioso lo scopo dell’associazione.
-??
+Contributi sociali già versati non saranno rimborsati. 
+Il comitato sociale deve radiare i contributi sociali arretrati.
 
 ## 4 mezzi
 
