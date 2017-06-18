@@ -97,7 +97,10 @@ Questi controllano i conti e riferiscono all'assemblea del caos ordinaria.
 
 ## 10 scioglimento dell'associazione
 
-Il consiglio di direzione esegue la liquidazione. Gli attivi dell’associazione vanno ad un’istituzione con finalità simile.
+Il consiglio di direzione esegue la liquidazione. 
+Gli attivi dell’associazione ritornano ai membri esistenti in parti equivalenti 
+agli ultimi contributi precedentemente versati.
+Parti rimanenti vanno ad un’istituzione con finalità simile.
 
 ## disposizioni transitorie
 
