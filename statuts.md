@@ -13,7 +13,7 @@ L'association facilites l'échange d'expériences entre les hackers de la Suisse
 L'association peut représenter les intérêts des hackers aux instances politique et au public.
 En plus elle peut s'engager pour l'éducation technique et scientifique.
 
-L'association est politiquement et confessionellement neutre.
+L’association est politiquement neutre et confessionnellement indépendante.
 
 ## 3 affiliation
 

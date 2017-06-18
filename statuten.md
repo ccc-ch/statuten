@@ -15,7 +15,7 @@ kann ihre Interessen in der Öffentlichkeit und gegenüber politischen Instanzen
 vertreten. Überdies kann er sich für die technisch-wissenschaftliche Bildung
 einsetzen.
 
-Der Verband ist parteipolitisch und konfessionell neutral.
+Der Verband ist parteipolitisch und konfessionell unabhängig.
 
 ## 3 Mitgliedschaft
 
