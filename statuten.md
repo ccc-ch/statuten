@@ -105,8 +105,11 @@ ordentlichen Chaosversammlung.
 
 ## 10 Auflösung des Verbands
 
-Die Liquidation erfolgt durch den Vorstand. Das Vereinsvermögen fällt an eine
-Institution mit vergleichbaren Zielen.
+Die Liquidation erfolgt durch den Vorstand. 
+Das Vereinsvermögen steht den bisherigen Mitglieder in Anteilen gemäss den zuletzt geleisteten 
+Mitgliederbeiträge zu.
+Nicht rückführbare Anteile sind einer externen Institution mit 
+vergleichbaren Zielen zu übergeben.
 
 ## Übergangsbestimmungen
 

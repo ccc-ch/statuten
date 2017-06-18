@@ -97,7 +97,10 @@ Ils vérifient les comptes et reportent à l'assemblée ordinaire du chaos.
 
 ## 10 dissolution de l'association
 
-La liquidation est réalisée par le comité. Les actifs de l'association vont à une institution aux objectives similaires.
+La liquidation est réalisée par le comité.
+Les actifs de l'association vont aux membres existants en parts selon les 
+dernières cotisations versées.
+Parts rémanents vont à une institution aux objectives similaires.
 
 ## réglementations transitoires
 
