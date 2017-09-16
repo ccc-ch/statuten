@@ -31,10 +31,13 @@ und Aufgaben des Verbands unterstützt.
 Die Kündigung der Mitgliedschaft kann jederzeit unter Einhaltung einer Frist
 von 23 Tagen erfolgen. Bereits geschuldete Beiträge werden nicht erstattet. Ein
 Zahlungsrückstand von fünf Monaten wird als Austrittserklärung gewertet.
+Bereits geleistete Beiträge werden nicht erstattet. 
+Bis dahin geschuldete Beiträge kann der Vorstand abschreiben.
 
 Verstösst ein Mitglied in grober Weise gegen die Ziele des Verbands, kann die
-Chaosversammlung den Ausschluss beschliessen. Bereits geschuldete Beiträge
-werden nicht erstattet.
+Chaosversammlung den Ausschluss beschliessen.
+Bereits geleistete Beiträge werden nicht erstattet. 
+Bis dahin geschuldete Beiträge sind abzuschreiben.
 
 ## 4 Finanzierung
 
