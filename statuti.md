@@ -64,7 +64,8 @@ La direzione è tenuta ad organizzare l'assemblea.
 Ogni socio invia due delegati con un voto ciascuno.
 
 L'invito viene presentato ai membri almeno 42 giorni in anticipo. 
-La «chiamata a partecipare» al raduno «Chaos Singularity (CoSin)» equivale ad un invito alla riunione del caos.
+La «chiamata a partecipare» al raduno «Chaos Singularity (CoSin)» nei mesi tra giugno e settembre 
+equivale ad un invito alla riunione del caos.
 
 La riunione del caos può definire metodi per il voto elettronico come equivalenti all'assemblea stessa. 
 La votazione elettronica dovrà rimanere aperta per almeno 23 giorni.

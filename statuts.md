@@ -63,7 +63,7 @@ Le comité est tenu d'organiser l’assemblée.
 Chaque membre envoie deux délégués par un vote chacun.
 
 L'invitation doit parvenir aux membres au plus tard que 42 jours à l'avance. «L’appel à participer» au rassemblement 
-«Chaos Singularity (CoSin)» est équivalente a l’invitation à l’assemblée.
+«Chaos Singularity (CoSin)» en Juin à Septembre est équivalente a l’invitation à l’assemblée.
 
 L’assemblée du chaos peut définir des méthodes de vote électronique comme équivalent à l'assemblée elle-même. 
 Le vote électronique restera ouvert pendant 23 jours au moins.
